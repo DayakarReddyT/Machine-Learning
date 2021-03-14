@@ -6,7 +6,7 @@ help them to retain their employees which in turn will help them to grow bigger 
 
 Things covered:- 
 
-1)the various classification machine learning models
+  1)the various classification machine learning models
   • KNN
   • Logistic Regression 
   • Naïve Bayes 
