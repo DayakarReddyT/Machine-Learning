@@ -5,6 +5,7 @@ department is assigned the task to reduce the attrition rate by retaining employ
 help them to retain their employees which in turn will help them to grow bigger as a company. 
 
 Things covered:- 
+
 1)the various classification machine learning models
   • KNN
   • Logistic Regression 
