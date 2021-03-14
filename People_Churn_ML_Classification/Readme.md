@@ -6,7 +6,7 @@ help them to retain their employees which in turn will help them to grow bigger 
 
 Things covered:- 
 
- 1)the various classification machine learning models
+ 1) Various classification machine learning models
     • KNN
     • Logistic Regression 
     • Naïve Bayes 
@@ -16,10 +16,10 @@ Things covered:-
     • Gradient Boosting 
     • XG Boost 
   
-2)plotting the ROC curve for each model 
+2) Plotting the ROC curve for each model 
 
-3)plotting the cofusion matrix 
+3) Plotting the cofusion matrix 
 
-4)importance of confusion matrix over accuracy 
+4) Importance of confusion matrix over accuracy 
 
-5)selection of best model
+5) Selection of best model
