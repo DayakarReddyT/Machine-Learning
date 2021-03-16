@@ -13,5 +13,7 @@ Code is well commented and you can easily understand from scraping the data to d
  2-> Linear_AND_Polynomial_Regressin.ipynb
  3-> Ridge_Lasso_Elastic_Regression.ipynb
  4-> DecisionTree_RandomForest_Regression.ipynb
+ 5-> XGBoost Regressor 
+ 6-> Model Selection 
  
  
